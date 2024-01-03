@@ -37,7 +37,7 @@ namespace my_str {
         // Type conversation
         operator char*() const { return m_str; }
 
-                // Operator+= with another String class
+        // Operator+= with another string class
         string& operator+=(const string& str) {
             string tempStr = m_str;
             delete[] m_str;
