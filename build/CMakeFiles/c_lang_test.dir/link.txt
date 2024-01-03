@@ -1,1 +1,0 @@
-/usr/bin/c89-gcc -g -rdynamic CMakeFiles/c_lang_test.dir/src/main.c.o -o c_lang_test 

@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -rdynamic CMakeFiles/c_test_out.dir/src/main.cxx.o -o c_test_out 
