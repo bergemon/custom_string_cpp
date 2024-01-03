@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/bergemon/Документы/CPP/CMake Projects/c_test/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/c_test_out.dir/src/main.cxx.o -c \"/home/bergemon/Документы/CPP/CMake Projects/c_test/src/main.cxx\"",
+  "file": "/home/bergemon/Документы/CPP/CMake Projects/c_test/src/main.cxx",
+  "output": "CMakeFiles/c_test_out.dir/src/main.cxx.o"
+}
+]
