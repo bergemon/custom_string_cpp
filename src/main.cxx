@@ -3,15 +3,13 @@
 int main(int argc, char** argv) {
     using namespace my_str;
 
-    const String s1 = "Hello";
-    const String s2 = ", World";
+    const string s1 = "Hello";
+    const string s2 = ", World!";
+    const string s3 = s1 + s2;
+    string s4 = "Hey! ";
+    s4 += s3;
 
-
-    // const String s3 = s1 + s2;
-
-    std::cout << s1.length() << std::endl;
-    std::cout << s2.length() << std::endl;
-    // // std::cout << s3 << std::endl;
+    std::cout << s4 << "\nlength: " << s4.length() << std::endl;
 
     return 0;
 }
