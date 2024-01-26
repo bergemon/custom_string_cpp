@@ -1,6 +1,6 @@
-cmake_minimum_required(VERSION 3.0.0)
+cmake_minimum_required(VERSION 3.5)
 
-project(c_lang_test VERSION 0.1.0 LANGUAGES CXX)
+project(c_lang_test VERSION 1.0 LANGUAGES CXX)
 
 include(CTest)
 enable_testing()
